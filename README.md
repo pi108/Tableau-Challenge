@@ -41,7 +41,7 @@ https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Analysis_15
 <br>
 
 ## Attached below is a screenshot of the 1st Caption of the Tableau Story . 
-![](images/Website_Top_Half.PNG)
+![](images/Tableau_Story_01.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 2nd Caption of the Tableau Story . 
