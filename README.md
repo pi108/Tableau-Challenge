@@ -27,7 +27,6 @@ The data had the following columns:
 * User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
 * Gender (Zero=unknown; 1=male; 2=female)
 * Year of Birth. 
-<br>
 
 ## Data Transformation:
 Jupyter Notebook was used to clean and combine teh data fromt he 29 individual month CSV files into one single combined Excel file.
