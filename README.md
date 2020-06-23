@@ -28,7 +28,6 @@ The data had the following columns:
 * Gender (Zero=unknown; 1=male; 2=female)
 * Year of Birth. 
 <br>
-<br>
 
 ## Data Transformation:
 Jupyter Notebook was used to clean and combine teh data fromt he 29 individual month CSV files into one single combined Excel file.
