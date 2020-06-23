@@ -9,44 +9,25 @@ This folder contains the following:
 5.	XXXXX.
 
 ## Data Extraction:
-This project is about a website visualization exercise using COVID-19 data. 
+Data was extracted for the period Jan-2018 to May-2020 from the following website. 
 <br>
 <br>
-As per wikipedia.org:
+https://www.citibikenyc.com/system-data
 <br>
-https://en.wikipedia.org/wiki/Coronavirus_disease_2019
-<br>
-Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It was first identified in December 2019 in Wuhan, China, and has resulted in a global pandemic. 
-<br>
-<br>
-Our group undertook an exercise of analyzing COVID-19 data as it pertains to all the 50 states in the United States of America. 
-<br>
-We extracted data from the following sources for our analysis:
-<br>
-<br>
-https://www.kaggle.com/imdevskp/corona-virus-report
-<br>
-This data source had data related to the actual number of new daily cases, new daily deaths, and total cumulative deaths for every county and state in the United States. 
-<br>
-<br>
-http://www.healthdata.org/covid/data-downloads
-<br>
-This data source had data related to the predicted number of new daily cases, new daily deaths, and total cumulative deaths for every state in the United States. 
+The data had the follwoing columns:
+* - Trip Duration (seconds)
+* - Start Time and Date
+Stop Time and Date
+Start Station Name
+End Station Name
+Station ID
+Station Lat/Long
+Bike ID
+User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+Gender (Zero=unknown; 1=male; 2=female)
+Year of Birth. 
 <br>
 <br>
-https://worldpopulationreview.com/states/
-<br>
-This data source had data related to the population for every state in the United States. 
-<br>
-<br>
-https://www.latlong.net/category/states-236-14.html
-<br>
-This data source had data related to the latitude and longitude for every state in the United States. 
-<br>
-<br>
-https://www.50states.com/abbreviations.htm
-<br>
-This data source had data related to the state name abbreviations for every state in the United States. 
 <br>
 
 ## Data Transformation:
