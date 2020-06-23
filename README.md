@@ -9,60 +9,36 @@ This folder contains the following:
 5.	XXXXX.
 
 ## Data Extraction:
-Data was extracted for the period Jan-2018 to May-2020 from the following website. 
+Data was extracted for the period Jan-2018 to May-2020 (29 months) from the following website. 
 <br>
 <br>
 https://www.citibikenyc.com/system-data
 <br>
 The data had the follwoing columns:
-* - Trip Duration (seconds)
-* - Start Time and Date
-Stop Time and Date
-Start Station Name
-End Station Name
-Station ID
-Station Lat/Long
-Bike ID
-User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-Gender (Zero=unknown; 1=male; 2=female)
-Year of Birth. 
-<br>
+* Trip Duration (seconds)
+* Start Time and Date
+* Stop Time and Date
+* Start Station Name
+* End Station Name
+* Station ID
+* Station Lat/Long
+* Bike ID
+* User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+* Gender (Zero=unknown; 1=male; 2=female)
+* Year of Birth. 
 <br>
 <br>
 
 ## Data Transformation:
-We did the following to transform the data:
-1.	Addressed NULL values. 
-2.	Formatted the dates in a manner that would work with the flask library in python. 
-3.	"Rolled-up" / summarized the dataset with actual numbers from the original level of State/County/Date to the level of State/Date.
-4. Created a ranking for the states based on the Total Deaths Per Million of Population.
+Jupyter Notebook was used to clean and combine teh data fromt he 29 individual month CSV files into one single combined Excel file.
 
 ## Data Load: 
-We then loaded the data into a SQLite database and called it covidData.db.
-<br>
-<br>
-
-## Creation of a Python File with Functions:
-We used SQL Alchemy to create functions in a python file called covidData.py. These functions allow us to extract the relevant data from the SQLite Database.
+The combined excel file was then loaded into Tableau and analyzed via the creation of 24 Visualizations, 5 DashBoards and One Story.
+The final Tableau file can be found here:
 <br>
 
-## Creation of a Python File with API routes:
-We then used Flask to create API routes in a file called application.py. This file uses the functions created in the file called covidData.py. 
 <br>
 
-## Creation of an HTML file:
-We then created an HTML file called index.html. This file contains the structure for the webpage. It also has all the relevant references / links to the underlying files that are used to format / style the webpage, as well as dynamically create the charts / graphs on the webpage.
-<br>
-
-## Creation of a Javascript file:
-We then created a Javascript file called plots.js. This file contains all the logic that controls the dynamic interaction of a user with the webpage. This logic allows for dynamic updates to the charts / graphs based on the user's selection of a particular US state.
-<br>
-
-## Push to AWS:
-We then zipped all the relevant files and folders and uploaded them to an environment on AWS using the service called "Elastic Beanstalk". This environment then provided us a URL for our webpage as follows:
-<br>
-http://project2final-env.eba-jy95kuzb.us-east-2.elasticbeanstalk.com/
-<hr>
 
 ## Attached below is a screenshot of the Top Half of our webpage. 
 ![](images/Website_Top_Half.PNG)
