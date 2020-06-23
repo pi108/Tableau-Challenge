@@ -14,7 +14,8 @@ Data was extracted for the period Jan-2018 to May-2020 (29 months) from the foll
 <br>
 https://www.citibikenyc.com/system-data
 <br>
-The data had the follwoing columns:
+<br>
+The data had the following columns:
 * Trip Duration (seconds)
 * Start Time and Date
 * Stop Time and Date
@@ -36,34 +37,41 @@ Jupyter Notebook was used to clean and combine teh data fromt he 29 individual m
 The combined excel file was then loaded into Tableau and analyzed via the creation of 24 Visualizations, 5 DashBoards and One Story.
 The final Tableau file can be found here:
 <br>
-
+<br>
+https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Analysis_15924181261270/Story1
+<br>
 <br>
 
-
-## Attached below is a screenshot of the Top Half of our webpage. 
+## Attached below is a screenshot of the 1st Caption of the Tableau Story . 
 ![](images/Website_Top_Half.PNG)
 <hr>
 
-## Attached below is a screenshot of the Bottom Half of our webpage. 
+## Attached below is a screenshot of the 2nd Caption of the Tableau Story . 
 ![](images/Website_Bottom_Half.PNG)
 <hr>
 
-## User-driven interaction with the webpage: 
-When a user selects a state from the dropdown box in the upper left hand corner, the following items update automatically with the relevant details for that state:
-1.	The panel below the dropdown box. This panel shows for the selected state, the total number of cases, the total number of deaths, and the total population. 
-2.	The map to the right of the dropdown box. The map zooms in to the selected state. You can then use the mouse to zoom in further or zoom out. You can also mouse over the state and that will pop up a box showing the total number of deaths for that state. The state will have a color ranging from light gray (lesser total deaths) to dark blue (higher total deaths) depending on the number of total deaths for that state. To the right of the map is a vertical bar which shows how the color scale changes from light gray to dark blue depending on the total number of deaths for the selected state.
-3.	The "gauge-chart" to the upper right of the map. This chart is created using a special javascript library called "gauge-chart". Details of this library can be found at this link: https://github.com/recogizer/gauge-chart/. 
-This gauge chart shows a ranking for the state based on the total number of deaths per million of population. It is a scale with a ranking of 1 to 50 where a rank of 1 means that the selected state had the lowest (best) ratio of total number of deaths per million of population, and a ranking of 50 means that the selected state had the highest (worst) ration of total number of deaths per million of population. 
-4.	The pie chart to the lower right of the map. This chart shows the percentages of the total population broken down into 3 categories, total number of cases, total number of deaths, and the total number of people unaffected - the percentages for these 3 categories will always sum to 100% of the population of the selected state. It is a way to visually depict the magnitude of the total number of cases and deaths compared to the magnitude of the portion of the population unaffected.
-5.	The box to the left of the screen below the  panel summary which is below the dropdown box. This box shows the total number of cases for the selected state, and then presents that number as a percentage of the total population. 
-6.	The box in the middle of the screen below the map. This box shows the total number of deaths for the selected state, and then presents that number as a percentage of the total population.
-7.	The box to the right of the screen below the pie chart. This box shows the total number of unaffected people for the selected state, and then presents that number as a percentage of the total population. The number of unaffected people is calculated as the total population for the state less the sum of the total number of cases and deaths, for the selected state.
-8.	Bar chart # 1 which is below the 3 boxes mentioned in points 5 to 7 above. This bar chart shows the total number of deaths )Actual vs Predicted) for the selected state by date. This chart also has a "slider" feature at the bottom of the chart, which allows you to conveniently "slide" to a date window of your choice, and thereby zoom into that date window on the graph. At the top left hand corner of the chart, you also have 3 "time-horizon" buttons - 1W (for the last week from the selected date window), 3W (for the last 3 weeks from the selected date window, and All (for all the dates in the dataset). 
-9.	Bar chart # 2 which is below Bar Chart # 1. This bar chart shows the daily cases (Actual vs Predicted) for the selected state by date. This bar chart also has the "slider" feature and the 3 "time-horizon" buttons mentioned in number 8. above.
-10.	Bar chart # 3 which is below Bar Chart # 2. This bar chart shows the daily deaths (Actual vs Predicted) for the selected state by date. This bar chart also has the "slider" feature and the 3 "time-horizon" buttons mentioned in number 8. above.
+## Attached below is a screenshot of the 3rd Caption of the Tableau Story . 
+![](images/Website_Top_Half.PNG)
+<hr>
+
+## Attached below is a screenshot of the 4th Caption of the Tableau Story . 
+![](images/Website_Bottom_Half.PNG)
+<hr>
+
+## Attached below is a screenshot of the 5th Caption of the Tableau Story . 
+![](images/Website_Top_Half.PNG)
+<hr>
+
+## Attached below is a screenshot of the 6th Caption of the Tableau Story . 
+![](images/Website_Bottom_Half.PNG)
+<hr>
+
+## Attached below is a screenshot of the 7th Caption of the Tableau Story . 
+![](images/Website_Bottom_Half.PNG)
+<hr>
 
 
-# Conclusions:
+## Conclusions:
 1.	The 5 states with the highest total number of deaths are as follows:
 * *New York: 30,374 (0.16% of the total population)*
 * *New Jersey: 12,176 (0.14% of the total population)*
@@ -76,11 +84,6 @@ This gauge chart shows a ranking for the state based on the total number of deat
 * *Connecticut: 1,143 (0.11% of the total population)*
 * *Massachusetts: 1,050 (0.10% of the total population)*
 * *South Dakota: 927 (0.10% of the total population)*
-
-## Key Takeaways:
-We were surprised by the relatively low percentage of the total population that was affected (total cases and deaths). Even for the hardest hit state (New York) the total percentage affected was just over 2% of the total population. This could be due to "stay-at-home" orders and social distancing measures taken in early March. 
-<br>
-Even with Predicted data, there are many factors contributing to the spread of this virus. The novelty of this virus makes it difficult to make predictions. However, the multiple visualizations provided on our webpage allows the user to explore the data in a way that tells a more comprehensive story. 
 
 
 
