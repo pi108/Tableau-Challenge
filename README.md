@@ -61,9 +61,16 @@ https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Analysis_15
 <hr>
 
 ## Attached below is a screenshot of the 7th Caption of the Tableau Story . 
+![](images/Tableau_Story_07.PNG)
+<hr>
+
+## Attached below is a screenshot of the 8th Caption of the Tableau Story . 
 ![](images/Tableau_Story_08.PNG)
 <hr>
 
+## Attached below is a screenshot of the 9th Caption of the Tableau Story . 
+![](images/Tableau_Story_09.PNG)
+<hr>
 
 ## Conclusions:
 1.	The 5 states with the highest total number of deaths are as follows:
