@@ -32,7 +32,7 @@ The combined excel file was then loaded into a Tableau file and analyzed via the
 The final Tableau file can be found here:
 <br>
 <br>
-https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Analysis_15924181261270/Story1
+https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Data_Analysis/Story1
 <br>
 <br>
 
