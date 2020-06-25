@@ -141,10 +141,19 @@ We analyzed data for the Citi Bike Program from January 2018 to May-2020.
 Our final dataset had 775,202 records.
 <br>
 Our findings were as follows:
+
+### Gender Based Analysis:
 1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
-2. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
-3. 
+2. For both,  Male and Female Bikers, the most number of trips were in June to October, and the least number of trips were in December to February. 
+3. For both, Male and Female Bikers, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
 4. 
+
+### User Type Based Analysis:
+1. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
+2. For both,  Customers and Subscribers, the most number of trips were in June to October, and the least number of trips were in December to February. 
+3. For Subscribers, the age group 30-32 had the most number of trips. For Customers, the age group 25-30 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
+4. 
+
 
 
 
