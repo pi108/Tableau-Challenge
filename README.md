@@ -54,7 +54,7 @@ This caption contains a link to the official webpage of the Citi Bike Program.
 <br>
 This caption contains 3 visualizations:
 1. A Table showing the number of trips by Gender by Month. Of the 775,202 trips, 187,157 trips were by Female Bikers, and 588,045 trips were by Male Bikers.
-2. A two-part Visualization showing the raw number of trips by Gender by Month, and also a 6 month moving average of the number of trips by Gender by Month. As can be seen, June to October had the most number of trips, and Decemebr to February had the least number of trips.
+2. A two-part Visualization showing the raw number of trips by Gender by Month, and also a 6 month moving average of the number of trips by Gender by Month. As can be seen, June to October had the most number of trips, and December to February had the least number of trips.
 3. A visualization showing the number of trips by Gender by Age. As can be seen, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25. 
 <hr>
 
@@ -63,7 +63,7 @@ This caption contains 3 visualizations:
 <br>
 This caption contains 3 visualizations:
 1. A Table showing the number of trips by User Type by Month. Of the 775,202 trips, 45,091 trips were by Customers, and 730,111 trips were by Subscribers.
-2. A two-part Visualization showing the raw number of trips by User Type by Month, and also a 6 month moving average of the number of trips by User Type by Month. As can be seen, June to October had the most number of trips, and Decemebr to February had the least number of trips.
+2. A two-part Visualization showing the raw number of trips by User Type by Month, and also a 6 month moving average of the number of trips by User Type by Month. As can be seen, June to October had the most number of trips, and December to February had the least number of trips.
 3. A visualization showing the number of trips by Gender by Age. As can be seen, the age group 30-32 had the most number of trips for Subscribers, and the age group 25-30 had the most number of trips for Customers. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25. 
 <hr>
 
