@@ -81,10 +81,23 @@ This caption contains 3 visualizations:
 
 ## Attached below is a screenshot of the 6th Caption of the Tableau Story . 
 ![](images/Tableau_Story_06.PNG)
+<br>
+This caption contains 4 visualizations:
+1. A Table showing the number of trips by Gender by Hour of the Day. 
+2. A Visualization showing the number of trips by Gender by Hour of the Day. As can be seen, the peak biking hours during the day for bike trips (the hours with the most number of trips) are 6 to 10 AM and 4 to 8 PM. 
+3. A Visualization showing the number of trips by Gender by Hour of the Day, further broken down by Year and Quarter. As can be seen, the peak biking hours during the day for bike trips are 6 to 10 AM and 4 to 8 PM, except for the 2nd Quarter of 2020, which could be an anomaly caused by the COVID-19 situation.  
+4. A Visualization showing the number of trips by Gender by Hour of the Day, further broken down by Age. As can be seen, the peak biking hours during the day for bike trips are 6 to 10 AM and 4 to 8 PM. This is quite pronounced for the age groups 26-50 and less pronounced for the age groups 21-25 and 51-60. There is no clear pattern regarding peak biking hours for the age group 16-20. 
 <hr>
+
 
 ## Attached below is a screenshot of the 7th Caption of the Tableau Story . 
 ![](images/Tableau_Story_07.PNG)
+<br>
+This caption contains 4 visualizations:
+1. A Table showing the number of trips by User Type by Hour of the Day. 
+2. A Visualization showing the number of trips by User Type by Hour of the Day. As can be seen, the peak hours during the day for bike trips (the hours with the most number of trips) are 6 to 10 AM and 4 to 8 PM for Subscribers. There is no clear pattern regarding peak biking hours for Customers.  
+3. A Visualization showing the number of trips by Gender by Hour of the Day, further broken down by Year and Quarter. As can be seen, the peak hours during the day for bike trips are 6 to 10 AM and 4 to 8 PM for Subscribers, except for the 2nd Quarter of 2020, which could be an anomaly caused by the COVID-19 situation. There is no clear pattern regarding peak biking hours for Customers. 
+4. A Visualization showing the number of trips by Gender by Hour of the Day, further broken down by Age. As can be seen, the peak hours during the day for bike trips are 6 to 10 AM and 4 to 8 PM for Subscribers -- this is quite pronounced for the age groups 26-50 and less pronounced for the age groups 21-25 and 51-60. There is no clear pattern regarding peak biking hours for Customers. 
 <hr>
 
 ## Attached below is a screenshot of the 8th Caption of the Tableau Story . 
