@@ -109,26 +109,25 @@ This caption contains 6 summary visualizations:
 3. A Visualization showing the proportion of the trips by Female Bikers compared to the trips by Male Bikers. 
 4. A Table showing the number of trips by User Type. Of the 775,202 trips, 45,091 trips were by Custoemrs, and 730,111 trips were by Subscribers.
 5. A Table showing the percentage of the number of trips by User Type. Of the total trips, 5.82% were by Customers, and 94.18% were by Subscribers.  
-6. A Visualization showing the proportion of the trips by Customers compared to the trips by Subscribers. 
+6. A Visualization showing the proportion of the trips by Customers compared to the trips by Subscribers.
+<br>
+There is a date slider at the top of the page. You can use this slider to select a month of your choice. This allows you to see how these 6 visualizations change over time.
 <hr>
 
 ## Attached below is a screenshot of the 9th Caption of the Tableau Story . 
 ![](images/Tableau_Story_09.PNG)
+<br>
+This caption contains 6 visualizations:
+1. A Map showing the starting points (stations) for the trips. 
+2. A Table showing the names of the bottom 10 starting points (stations) - - starting points with the least number of trips.
+3. A Table showing the names of the top 10 starting points (stations) - - starting points with the most number of trips.
+4. A Map showing the ending point for the trips. 
+5. A Table showing the names of the bottom 10 ending points (stations) - - ending points with the least number of trips. 
+6. A Table showing the names of the top 10 ending points (stations) - - ending points with the most number of trips. 
+<br>
+There is a date slider at the top of the page. You can use this slider to select a month of your choice. This allows you to see how these 6 visualizations change over time.
 <hr>
 
-## Conclusions:
-1.	The 5 states with the highest total number of deaths are as follows:
-* *New York: 30,374 (0.16% of the total population)*
-* *New Jersey: 12,176 (0.14% of the total population)*
-* *Massachusetts: 7,323 (0.10% of the total population)*
-* *Pennsylvania: 5,943 (0.05% of the total population)*
-* *Illinois: 5,903 (0.05% of the total population)*
-2.	The 5 states with the highest total number of deaths per million of population are as follows:
-* *New York: 1,562 (0.16% of the total population)*
-* *New Jersey: 1,362 (0.14% of the total population)*
-* *Connecticut: 1,143 (0.11% of the total population)*
-* *Massachusetts: 1,050 (0.10% of the total population)*
-* *South Dakota: 927 (0.10% of the total population)*
 
 
 
