@@ -102,6 +102,14 @@ This caption contains 4 visualizations:
 
 ## Attached below is a screenshot of the 8th Caption of the Tableau Story . 
 ![](images/Tableau_Story_08.PNG)
+<br>
+This caption contains 6 summary visualizations:
+1. A Table showing the number of trips by Gender. Of the 775,202 trips, 187,157 trips were by Female Bikers, and 588,045 trips were by Male Bikers.
+2. A Table showing the percentage of the number of trips by Gender. Of the total trips, 24.14% were by Female Bikers, and 75.86% were by Male Bikers. 
+3. A Visualization showing the proportion of the trips by Female Bikers compared to the trips by Male Bikers. 
+4. A Table showing the number of trips by User Type. Of the 775,202 trips, 45,091 trips were by Custoemrs, and 730,111 trips were by Subscribers.
+5. A Table showing the percentage of the number of trips by User Type. Of the total trips, 5.82% were by Customers, and 94.18% were by Subscribers.  
+6. A Visualization showing the proportion of the trips by Customers compared to the trips by Subscribers. 
 <hr>
 
 ## Attached below is a screenshot of the 9th Caption of the Tableau Story . 
