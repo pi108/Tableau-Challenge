@@ -63,6 +63,11 @@ This caption contains 3 visualizations:
 
 ## Attached below is a screenshot of the 4th Caption of the Tableau Story . 
 ![](images/Tableau_Story_04.PNG)
+<br>
+This caption contains 3 visualizations:
+1. A Table showing the average trip duration in minutes by Gender by Month. 
+2. A two-part Visualization showing the average trip durations by Gender by Month, and also a 6 month moving average of the average trip duration by Gender by Month. As can be seen, March 2020 to May 2020 had the highest average trip duration. This seems to be an anomaly caused by the cOVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
+3. A visualization showing the average trip duration by Gender by Age. As can be seen, Males aged 17-21 and Females aged 17-20 had teh highest average trip duration. Also for the age group 23-60, the average trip duration was higher for Female Bikers than Male Bikers. This was also an unexpected finding.   
 <hr>
 
 ## Attached below is a screenshot of the 5th Caption of the Tableau Story . 
