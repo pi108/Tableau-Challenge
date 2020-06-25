@@ -38,10 +38,17 @@ https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Data_Analys
 
 ## Attached below is a screenshot of the 1st Caption of the Tableau Story . 
 ![](images/Tableau_Story_01.PNG)
+<br>
+This caption contains a link to the official webpage of the Citi Bike Program. 
 <hr>
 
 ## Attached below is a screenshot of the 2nd Caption of the Tableau Story . 
 ![](images/Tableau_Story_02.PNG)
+<br>
+This caption contains 3 visualizations:
+1. A Table showing the number of trips by Gender by Month. Of the 775,202 trips, 187,157 trips were by Female Bikers, and 588,045 trips were by Male Bikers.
+2. A two-part Visualization showing the raw number of trips by Gender by Month, and also a 6 month moving average of the number of trips by Gender by Month.
+3. A visualization showing the number of trips by Gender by Age.
 <hr>
 
 ## Attached below is a screenshot of the 3rd Caption of the Tableau Story . 
