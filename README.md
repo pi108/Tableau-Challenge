@@ -36,14 +36,14 @@ https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Data_Analys
 <br>
 <br>
 
-## Attached below is a screenshot of the 1st Caption of the Tableau Story . 
+## Attached below is a screenshot of the 1st Caption of the Tableau Story: 
 ![](images/Tableau_Story_01.PNG)
 <br>
 This caption contains a link to the official webpage of the Citi Bike Program. 
 <br>
 <hr>
 
-## Attached below is a screenshot of the 2nd Caption of the Tableau Story . 
+## Attached below is a screenshot of the 2nd Caption of the Tableau Story: 
 ![](images/Tableau_Story_02.PNG)
 <br>
 This caption contains 3 visualizations:
@@ -52,7 +52,7 @@ This caption contains 3 visualizations:
 3. A visualization showing the number of trips by Gender by Age. As can be seen, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25. 
 <hr>
 
-## Attached below is a screenshot of the 3rd Caption of the Tableau Story . 
+## Attached below is a screenshot of the 3rd Caption of the Tableau Story: 
 ![](images/Tableau_Story_03.PNG)
 <br>
 This caption contains 3 visualizations:
@@ -61,7 +61,7 @@ This caption contains 3 visualizations:
 3. A visualization showing the number of trips by Gender by Age. As can be seen, the age group 30-32 had the most number of trips for Subscribers, and the age group 25-30 had the most number of trips for Customers. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25. 
 <hr>
 
-## Attached below is a screenshot of the 4th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 4th Caption of the Tableau Story: 
 ![](images/Tableau_Story_04.PNG)
 <br>
 This caption contains 3 visualizations:
@@ -70,7 +70,7 @@ This caption contains 3 visualizations:
 3. A visualization showing the average trip duration by Gender by Age. As can be seen, Males aged 17-21 and Females aged 17-20 had the highest average trip duration. Also for the age group 23-60, the average trip duration was higher for Female Bikers than Male Bikers. This was also an unexpected finding.   
 <hr>
 
-## Attached below is a screenshot of the 5th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 5th Caption of the Tableau Story: 
 ![](images/Tableau_Story_05.PNG)
 <br>
 This caption contains 3 visualizations:
@@ -79,7 +79,7 @@ This caption contains 3 visualizations:
 3. A visualization showing the average trip duration by User Type by Age. As can be seen, Subscribers aged 16-18 and Customers aged 18-20 had the highest average trip duration. Also for the age group 18-60, the average trip duration was higher for Customers than Subscribers.   
 <hr>
 
-## Attached below is a screenshot of the 6th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 6th Caption of the Tableau Story: 
 ![](images/Tableau_Story_06.PNG)
 <br>
 This caption contains 4 visualizations:
@@ -90,7 +90,7 @@ This caption contains 4 visualizations:
 <hr>
 
 
-## Attached below is a screenshot of the 7th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 7th Caption of the Tableau Story: 
 ![](images/Tableau_Story_07.PNG)
 <br>
 This caption contains 4 visualizations:
@@ -100,21 +100,21 @@ This caption contains 4 visualizations:
 4. A Visualization showing the number of trips by Gender by Hour of the Day, further broken down by Age. As can be seen, the peak hours during the day for bike trips are 6 to 10 AM and 4 to 8 PM for Subscribers -- this is quite pronounced for the age groups 26-50 and less pronounced for the age groups 21-25 and 51-60. There is no clear pattern regarding peak biking hours for Customers. 
 <hr>
 
-## Attached below is a screenshot of the 8th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 8th Caption of the Tableau Story: 
 ![](images/Tableau_Story_08.PNG)
 <br>
 This caption contains 6 summary visualizations:
 1. A Table showing the number of trips by Gender. Of the 775,202 trips, 187,157 trips were by Female Bikers, and 588,045 trips were by Male Bikers.
 2. A Table showing the percentage of the number of trips by Gender. Of the total trips, 24.14% were by Female Bikers, and 75.86% were by Male Bikers. 
 3. A Visualization showing the proportion of the trips by Female Bikers compared to the trips by Male Bikers. 
-4. A Table showing the number of trips by User Type. Of the 775,202 trips, 45,091 trips were by Custoemrs, and 730,111 trips were by Subscribers.
+4. A Table showing the number of trips by User Type. Of the 775,202 trips, 45,091 trips were by Customers, and 730,111 trips were by Subscribers.
 5. A Table showing the percentage of the number of trips by User Type. Of the total trips, 5.82% were by Customers, and 94.18% were by Subscribers.  
 6. A Visualization showing the proportion of the trips by Customers compared to the trips by Subscribers.
 <br>
 There is a date slider at the top of the page. You can use this slider to select a month of your choice. This allows you to see how these 6 visualizations change over time.
 <hr>
 
-## Attached below is a screenshot of the 9th Caption of the Tableau Story . 
+## Attached below is a screenshot of the 9th Caption of the Tableau Story: 
 ![](images/Tableau_Story_09.PNG)
 <br>
 This caption contains 6 visualizations:
@@ -129,8 +129,20 @@ There is a date slider at the top of the page. You can use this slider to select
 <hr>
 
 
-
-
+## Conclusions: 
+We analyzed data for the Citi Bike Program from January 2018 to May-2020. 
+<br>
+There were XXXX records in the raw dataset - - each record represents a trip.
+<br>
+We eliminated XXXX records as part of cleaning up the data.
+<br>
+Our final dataset had XXXXX records.
+<br>
+Our findings were as follows:
+1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
+2. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
+3. 
+4. 
 
 
 
