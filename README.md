@@ -142,14 +142,14 @@ Our final dataset had 775,202 records.
 <br>
 Our findings were as follows:
 
-### Gender Based Analysis:
+#### Gender Based Analysis:
 1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
 2. For both,  Male and Female Bikers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For both, Male and Female Bikers, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
 4. For both, Male and Female Bikers, March 2020 to May 2020 had the highest average trip duration. This seems to be an anomaly caused by the COVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
 5. Male Bikers aged 17-21 and Female Bikers aged 17-20 had the highest average trip duration. For the age group 23-60, the average trip duration was higher for Female Bikers than Male Bikers. This was an unexpected finding. 
 
-### User Type Based Analysis:
+#### User Type Based Analysis:
 1. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
 2. For both,  Customers and Subscribers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For Subscribers, the age group 30-32 had the most number of trips. For Customers, the age group 25-30 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
