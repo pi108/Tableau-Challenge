@@ -1,12 +1,8 @@
 # Tableau - Challenge
 
 ## This repository contains the files regarding a Tableau exercise conducted with data for the Citi Bike Program. 
-This folder contains the following:
-1.	Resources folder that contains 29 CSV iles, one each for the months Jan-2018 to May-2020.
-2.	Jupyter Notebook folder that contains a Jupyetr notebook file used to clean and combine the data from the 29 CSV files into one combined Excel file. 
-3.	Output folder that contains one combined Excel file generated from the Jupyter Notebook filke. 
-4.	Images folder that contains teh Images used for the Tableau file. 
-5.	XXXXX.
+1.	Tableau file that contains 24 visualizations, 7 DashBoards, and 1 Story. 
+2.	Images folder that contains 7 screenshots of the Story from the Tableau file.
 
 ## Data Extraction:
 Data was extracted for the period Jan-2018 to May-2020 (29 months) from the following website. 
@@ -29,10 +25,10 @@ The data had the following columns:
 * Year of Birth. 
 
 ## Data Transformation:
-Jupyter Notebook was used to clean and combine teh data fromt he 29 individual month CSV files into one single combined Excel file.
+Jupyter Notebook was used to clean and combine the data from the 29 individual monthly CSV files, into one single combined Excel file.
 
 ## Data Load: 
-The combined excel file was then loaded into Tableau and analyzed via the creation of 24 Visualizations, 5 DashBoards and One Story.
+The combined excel file was then loaded into a Tableau file and analyzed via the creation of 24 Visualizations, 7 DashBoards and 1 Story.
 The final Tableau file can be found here:
 <br>
 <br>
@@ -41,31 +37,31 @@ https://public.tableau.com/profile/firdosh.patel#!/vizhome/Citi_Bike_Analysis_15
 <br>
 
 ## Attached below is a screenshot of the 1st Caption of the Tableau Story . 
-![](images/Website_Top_Half.PNG)
+![](images/Tableau_Story_01.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 2nd Caption of the Tableau Story . 
-![](images/Website_Bottom_Half.PNG)
+![](images/Tableau_Story_02.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 3rd Caption of the Tableau Story . 
-![](images/Website_Top_Half.PNG)
+![](images/Tableau_Story_03.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 4th Caption of the Tableau Story . 
-![](images/Website_Bottom_Half.PNG)
+![](images/Tableau_Story_04.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 5th Caption of the Tableau Story . 
-![](images/Website_Top_Half.PNG)
+![](images/Tableau_Story_05.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 6th Caption of the Tableau Story . 
-![](images/Website_Bottom_Half.PNG)
+![](images/Tableau_Story_06.PNG)
 <hr>
 
 ## Attached below is a screenshot of the 7th Caption of the Tableau Story . 
-![](images/Website_Bottom_Half.PNG)
+![](images/Tableau_Story_08.PNG)
 <hr>
 
 
