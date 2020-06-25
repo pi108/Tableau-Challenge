@@ -72,7 +72,7 @@ This caption contains 3 visualizations:
 <br>
 This caption contains 3 visualizations:
 1. A Table showing the average trip duration in minutes by Gender by Month. 
-2. A two-part Visualization showing the average trip durations by Gender by Month, and also a 6 month moving average of the average trip duration by Gender by Month. As can be seen, March 2020 to May 2020 had the highest average trip duration. This seems to be an anomaly caused by the cOVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
+2. A two-part Visualization showing the average trip durations by Gender by Month, and also a 6 month moving average of the average trip duration by Gender by Month. As can be seen, March 2020 to May 2020 had the highest average trip duration. This seems to be an anomaly caused by the COVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
 3. A visualization showing the average trip duration by Gender by Age. As can be seen, Males aged 17-21 and Females aged 17-20 had the highest average trip duration. Also for the age group 23-60, the average trip duration was higher for Female Bikers than Male Bikers. This was also an unexpected finding.   
 <hr>
 
@@ -81,7 +81,7 @@ This caption contains 3 visualizations:
 <br>
 This caption contains 3 visualizations:
 1. A Table showing the average trip duration in minutes by User Type by Month. 
-2. A two-part Visualization showing the average trip durations by User Type by Month, and also a 6 month moving average of the average trip duration by User Type by Month. As can be seen, February 2019 had the highest average trip duration for Customers. March 2020 to May 2020 had the highest average trip duration for siubscribers -- this seems to be an anomaly caused by the cOVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
+2. A two-part Visualization showing the average trip durations by User Type by Month, and also a 6 month moving average of the average trip duration by User Type by Month. As can be seen, February 2019 had the highest average trip duration for Customers. March 2020 to May 2020 had the highest average trip duration for subscribers -- this seems to be an anomaly caused by the COVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
 3. A visualization showing the average trip duration by User Type by Age. As can be seen, Subscribers aged 16-18 and Customers aged 18-20 had the highest average trip duration. Also for the age group 18-60, the average trip duration was higher for Customers than Subscribers.   
 <hr>
 
@@ -146,13 +146,15 @@ Our findings were as follows:
 1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
 2. For both,  Male and Female Bikers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For both, Male and Female Bikers, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
-4. 
+4. For both, Male and Female Bikers, March 2020 to May 2020 had the highest average trip duration. This seems to be an anomaly caused by the COVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
+5. Male Bikers aged 17-21 and Female Bikers aged 17-20 had the highest average trip duration. For the age group 23-60, the average trip duration was higher for Female Bikers than Male Bikers. This was an unexpected finding. 
 
 ### User Type Based Analysis:
 1. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
 2. For both,  Customers and Subscribers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For Subscribers, the age group 30-32 had the most number of trips. For Customers, the age group 25-30 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
-4. 
+4. For Customers, February 2019 had the highest average trip duration. For Subscribers, March 2020 to May 2020 had the highest average trip duration -- this seems to be an anomaly caused by the COVID-19 situation. This was very surprising since we did not expect much activity in the period March 2020 to May 2020 given the stay-at-home orders and social distancing measures implemented in New York.
+5. Subscribers aged 16-18 and Customers aged 18-20 had the highest average trip duration. For the age group 18-60, the average trip duration was higher for Customers than Subscribers.   
 
 
 
