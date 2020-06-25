@@ -26,6 +26,12 @@ The data had the following columns:
 
 ## Data Transformation:
 Jupyter Notebook was used to clean and combine the data from the 29 individual monthly CSV files, into one single combined Excel file.
+<br>
+There were 859,885 records in the raw dataset - - each record represents a trip.
+<br>
+We eliminated 84,683 records as part of cleaning up the data (there were records where the Gender was specified as Unknown and the Birth Year was specified as 1969 - - these were records where the users did not provide their Gender, and also seemed to provide a fictitious year (1969) as their Birth Year.
+<br>
+Our final dataset had 775,202 records.
 
 ## Data Load: 
 The combined excel file was then loaded into a Tableau file and analyzed via the creation of 24 Visualizations, 7 DashBoards and 1 Story.
@@ -132,11 +138,7 @@ There is a date slider at the top of the page. You can use this slider to select
 ## Conclusions: 
 We analyzed data for the Citi Bike Program from January 2018 to May-2020. 
 <br>
-There were XXXX records in the raw dataset - - each record represents a trip.
-<br>
-We eliminated XXXX records as part of cleaning up the data.
-<br>
-Our final dataset had XXXXX records.
+Our final dataset had 775,202 records.
 <br>
 Our findings were as follows:
 1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
