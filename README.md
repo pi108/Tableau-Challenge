@@ -132,20 +132,6 @@ This caption contains 6 visualizations:
 6. A Table showing the names of the top 10 ending points (stations) - - ending points with the most number of trips. 
 <br>
 There is a date slider at the top of the page. You can use this slider to select a month of your choice. This allows you to see how these 6 visualizations change over time.
-<br>
-Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starting Points) with the most number of trips were as follows:
-1. Grove St Path: 88,051 trips
-2. Hamilton Park: 45,522 trips
-3. Sip Ave: 39,443 trips
-4. Newport Path: 33,348 trips
-5. Harborside:  30,275 trips
-<br>
-Of the 775,202 trips over the entire time period analyzed, the top 5 Stations (Ending Points) with the most number of trips were as follows:
-1. Grove St Path: 110,821 trips
-2. Hamilton Park: 42,387 trips
-3. Sip Ave: 36,216 trips
-4. Newport Path: 34,796 trips
-5. Harborside:  29,822 trips
 <hr>
 
 
