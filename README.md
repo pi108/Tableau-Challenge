@@ -1,7 +1,7 @@
 # Tableau - Challenge
 
 ## This repository contains the files regarding a Tableau exercise conducted with data for the Citi Bike Program. 
-1.	Tableau file that contains 32 visualizations, 9 DashBoards, and 1 Story. 
+1.	Tableau file that contains 32 visualizations, 8 DashBoards, and 1 Story. 
 2.	Images folder that contains Images used for the Story, as well as screenshots of each Caption in the Story. 
 
 ## Data Extraction:
@@ -34,7 +34,7 @@ We eliminated 84,683 records as part of cleaning up the data (there were records
 Our final dataset had 775,202 records.
 
 ## Data Load: 
-The combined excel file was then loaded into a Tableau file and analyzed via the creation of 24 Visualizations, 7 DashBoards and 1 Story.
+The combined excel file was then loaded into a Tableau file and analyzed via the creation of 32 Visualizations, 8 DashBoards and 1 Story.
 The final Tableau file can be found here:
 <br>
 <br>
