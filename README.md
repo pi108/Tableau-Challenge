@@ -142,7 +142,7 @@ Our final dataset had 775,202 records.
 <br>
 Our findings were as follows:
 
-#### Gender Based Analysis:
+### Gender Based Analysis:
 1. Of the 775,202 trips, 187,157 trips (24.14%) were by Female Bikers, and 588,045 trips (75.86%) were by Male Bikers. 
 2. For both,  Male and Female Bikers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For both, Male and Female Bikers, the age group 30-32 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
@@ -151,7 +151,7 @@ Our findings were as follows:
 6. For both, Male and Female Bikers, the peak biking hours during the day are 6 to 10 AM and 4 to 8 PM, for the entire time period analyzed, except for the 2nd Quarter of 2020, which could be an anomaly caused by the COVID-19 situation. 
 7. For both, Male and Female Bikers, the peak biking hours during the day are 6 to 10 AM and 4 to 8 PM for the age groups 26-50, and also for the age groups 21-25 and 51-60 (although slightly less pronounced). There is no clear pattern regarding peak biking hours for the age group 16-20. 
 
-#### User Type Based Analysis:
+### User Type Based Analysis:
 1. Of the 775,202 trips, 45,091 trips (5.82%) were by Customers, and 730,111 trips (95.18%) were by Subscribers.
 2. For both,  Customers and Subscribers, the most number of trips were in June to October, and the least number of trips were in December to February. 
 3. For Subscribers, the age group 30-32 had the most number of trips. For Customers, the age group 25-30 had the most number of trips. This was rather surprising, since we were expecting the Age Group with the most number of trips to be a bit younger -- in the age group of 20-25.
@@ -161,7 +161,8 @@ Our findings were as follows:
 7. For Subscribers, the peak hours during the day are 6 to 10 AM and 4 to 8 PM for the age groups 26-50, and also for the age groups 21-25 and 51-60 (although slightly less pronounced). There is no clear pattern regarding peak biking hours for Customers. 
 
 
-#### Trip Starting Points Analysis (entire time period -- January 2018 to May-2020):
+### Trip Starting Points Analysis: 
+#### Over the entire time period -- January 2018 to May-2020:
 Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starting Points) with the most number of trips were as follows:
 1. Grove St Path: 88,051 trips
 2. Hamilton Park: 45,522 trips
@@ -169,25 +170,31 @@ Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starti
 4. Newport Path: 33,348 trips
 5. Harborside:  30,275 trips
 This trend applies to most of the months from Jan-2018 to March-2020.
-
-#### Trip Starting Points Analysis (last month of the dataset -- May-2020):
+#### For the last month of the dataset -- May-2020:
 However, the trend changes  in April-2020 and May-2020. For instance, in the last month of our dataset (May-2020), the top 5 Stations (Starting Points) with the most number of trips were as follows:
 1. Liberty Light Rail: 1,581 trips
 2. Newport Pkwy: 1,321 tripss
 3. JC Medical center: 859 trips
 4. Grove St Path: 819 trips
 5. Marin Light Rail: 794 trips
-This trend applies to most fo the months from Jan-2018 to March-2020.
+This seems to be an anomaly caused by the COVID-19 situation.
 
 
-
-#### Trip Ending Points Analysis:
+### Trip Ending Points Analysis: 
+#### Over the entire time period -- January 2018 to May-2020:
 Of the 775,202 trips over the entire time period analyzed, the top 5 Stations (Ending Points) with the most number of trips were as follows:
 1. Grove St Path: 110,821 trips
 2. Hamilton Park: 42,387 trips
 3. Sip Ave: 36,216 trips
 4. Newport Path: 34,796 trips
 5. Harborside:  29,822 trips
-
-
+This trend applies to most of the months from Jan-2018 to March-2020.
+#### For the last month of the dataset -- May-2020:
+However, the trend changes  in April-2020 and May-2020. For instance, in the last month of our dataset (May-2020), the top 5 Stations (Ending Points) with the most number of trips were as follows:
+1. Liberty Light Rail: 1,635 trips
+2. Newport Pkwy: 1,305 tripss
+3. Grove St Path: 842 trips
+4. JC Medical Center: 826 trips
+5. Hamilton Park: 790 trips
+This seems to be an anomaly caused by the COVID-19 situation.
 
