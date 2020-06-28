@@ -168,26 +168,17 @@ Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starti
 3. Sip Ave: 39,443 trips
 4. Newport Path: 33,348 trips
 5. Harborside:  30,275 trips
-This trend applies to most fo the months from Jan-2018 to March-2020.
+This trend applies to most of the months from Jan-2018 to March-2020.
 
 #### Trip Starting Points Analysis:
-Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starting Points) with the most number of trips were as follows:
-1. Grove St Path: 88,051 trips
-2. Hamilton Park: 45,522 trips
-3. Sip Ave: 39,443 trips
-4. Newport Path: 33,348 trips
-5. Harborside:  30,275 trips
-This trend applies to most fo the months from Jan-2018 to March-2020.
-
-<br>
-However, the trend changes  in April-2020 and May-2020.
-<br>
-For isntance, in the last month of our dataset (May-2020), the top 5 Stations (Starting Points) with the most number of trips were as follows:
+However, the trend changes  in April-2020 and May-2020. For instance, in the last month of our dataset (May-2020), the top 5 Stations (Starting Points) with the most number of trips were as follows:
 1. Liberty Light Rail: 1,581 trips
-2. Newport Pkwy: 1,321 trips
+2. Newport Pkwy: 1,321 tripss
 3. JC Medical center: 859 trips
 4. Grove St Path: 819 trips
 5. Marin Light Rail: 794 trips
+This trend applies to most fo the months from Jan-2018 to March-2020.
+
 
 
 #### Trip Ending Points Analysis:
