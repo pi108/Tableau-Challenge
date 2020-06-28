@@ -161,7 +161,7 @@ Our findings were as follows:
 7. For Subscribers, the peak hours during the day are 6 to 10 AM and 4 to 8 PM for the age groups 26-50, and also for the age groups 21-25 and 51-60 (although slightly less pronounced). There is no clear pattern regarding peak biking hours for Customers. 
 
 
-#### Trip Starting Points Analysis:
+#### Trip Starting Points Analysis (entire time period -- January 2018 to May-2020):
 Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starting Points) with the most number of trips were as follows:
 1. Grove St Path: 88,051 trips
 2. Hamilton Park: 45,522 trips
@@ -170,7 +170,7 @@ Of the 775,202 trips over the entire period analyzed, the top 5 Stations (Starti
 5. Harborside:  30,275 trips
 This trend applies to most of the months from Jan-2018 to March-2020.
 
-#### Trip Starting Points Analysis:
+#### Trip Starting Points Analysis (last month of the dataset -- May-2020):
 However, the trend changes  in April-2020 and May-2020. For instance, in the last month of our dataset (May-2020), the top 5 Stations (Starting Points) with the most number of trips were as follows:
 1. Liberty Light Rail: 1,581 trips
 2. Newport Pkwy: 1,321 tripss
